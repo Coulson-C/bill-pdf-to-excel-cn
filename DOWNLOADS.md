@@ -19,4 +19,11 @@ Base form:
 | 5 | 电商客服话术包 | `ecommerce-cs-playbook-pack.zip` | | https://raw.githubusercontent.com/Coulson-C/bill-pdf-to-excel-cn/refs/heads/main/ecommerce-cs-playbook-pack.zip |
 | 6 | 接单三件套 | `freelance-quote-kit.zip` | | https://raw.githubusercontent.com/Coulson-C/bill-pdf-to-excel-cn/refs/heads/main/freelance-quote-kit.zip |
 
+## Aux digital goods
+
+| Product | File | Raw URL |
+| --- | --- | --- |
+| 电商主图本地批压 | `ecommerce-image-batch-compress-cn.zip` | https://raw.githubusercontent.com/Coulson-C/bill-pdf-to-excel-cn/refs/heads/main/ecommerce-image-batch-compress-cn.zip |
+| 报销归档 PDF 三件套 | `expense-pdf-archive-kit-cn.zip` | https://raw.githubusercontent.com/Coulson-C/bill-pdf-to-excel-cn/refs/heads/main/expense-pdf-archive-kit-cn.zip |
+
 All packages live at the repo root (same pattern as the existing bill zip). No secrets are included; sample/demo data only.
