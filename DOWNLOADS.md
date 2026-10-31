@@ -21,10 +21,11 @@ Base form:
 
 ## Aux digital goods
 
-| Product | File | Raw URL |
-| --- | --- | --- |
-| 电商主图本地批压 | `ecommerce-image-batch-compress-cn.zip` | https://raw.githubusercontent.com/Coulson-C/bill-pdf-to-excel-cn/refs/heads/main/ecommerce-image-batch-compress-cn.zip |
-| 报销归档 PDF 三件套 | `expense-pdf-archive-kit-cn.zip` | https://raw.githubusercontent.com/Coulson-C/bill-pdf-to-excel-cn/refs/heads/main/expense-pdf-archive-kit-cn.zip |
+| Product | File | Notes | Raw URL |
+| --- | --- | --- | --- |
+| 电商主图批压+防盗水印 | `ecommerce-image-compress-watermark-cn.zip` | Recommended listing for this line (supersedes batch-compress-only pack) | https://raw.githubusercontent.com/Coulson-C/bill-pdf-to-excel-cn/refs/heads/main/ecommerce-image-compress-watermark-cn.zip |
+| 电商主图本地批压（旧包） | `ecommerce-image-batch-compress-cn.zip` | Prior compress-only pack; keep for existing links | https://raw.githubusercontent.com/Coulson-C/bill-pdf-to-excel-cn/refs/heads/main/ecommerce-image-batch-compress-cn.zip |
+| 报销归档 PDF 三件套 | `expense-pdf-archive-kit-cn.zip` | | https://raw.githubusercontent.com/Coulson-C/bill-pdf-to-excel-cn/refs/heads/main/expense-pdf-archive-kit-cn.zip |
 
 ## HR / payroll
 
