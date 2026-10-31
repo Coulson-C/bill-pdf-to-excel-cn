@@ -26,4 +26,10 @@ Base form:
 | 电商主图本地批压 | `ecommerce-image-batch-compress-cn.zip` | https://raw.githubusercontent.com/Coulson-C/bill-pdf-to-excel-cn/refs/heads/main/ecommerce-image-batch-compress-cn.zip |
 | 报销归档 PDF 三件套 | `expense-pdf-archive-kit-cn.zip` | https://raw.githubusercontent.com/Coulson-C/bill-pdf-to-excel-cn/refs/heads/main/expense-pdf-archive-kit-cn.zip |
 
+## HR / payroll
+
+| Product | File | Raw URL |
+| --- | --- | --- |
+| 2026工资薪酬+年终奖计税Excel无宏包 | `payroll-bonus-tax-excel-2026-cn.zip` | https://raw.githubusercontent.com/Coulson-C/bill-pdf-to-excel-cn/refs/heads/main/payroll-bonus-tax-excel-2026-cn.zip |
+
 All packages live at the repo root (same pattern as the existing bill zip). No secrets are included; sample/demo data only.
